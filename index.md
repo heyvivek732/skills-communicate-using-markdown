@@ -3,3 +3,7 @@
 ```javaScript
 let a=Vivek singh
 ```
+
+- [x] Task 1
+- [x] Task 2
+- [ ] Task 3
